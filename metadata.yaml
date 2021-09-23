@@ -1,5 +1,8 @@
 _repo: The-Fifty-Fourth-of-July_66288
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66288-h/images/cover.jpg
 creator:
   author:
     agent_name: Nourse, Alan Edward
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25579
     wikipedia: https://en.wikipedia.org/wiki/Alan_E._Nourse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66288#The-Fifty-Fourth-of-July
 gutenberg_issued: '2021-09-13'
 identifiers:
   gutenberg: '66288'
